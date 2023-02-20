@@ -1,2 +1,2 @@
 # Chinese Chess
- Chinese Chess game using HTML, CSS and Javascript
+ Chinese Chess game using Java and JavaSwing
